@@ -3,9 +3,11 @@
 ** Phase (0) Project Goals **
 ---------------------------------
 (1) Who is the audience? 
+
 -- Sales Manager
 
 (2) What decisions will this report support?
+
 -- Focus promotions on best-selling products
 -- Launch local campaigns in weak regions
 -- Reward top performers
