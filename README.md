@@ -1,5 +1,6 @@
 # Sales-Performance-Project
 
+
 ** Phase (0) Project Goals **
 ---------------------------------
 (1) Who is the audience? 
@@ -37,6 +38,7 @@
 -- Orders Count
 
 
+
 ** Phase (1) Cleaning Data **
 ---------------------------------
 (1) Check missing values 	
@@ -52,9 +54,10 @@
 (6) Add helper columns	
 
 
+
 ** Phase (2) Data Analysis **
 ---------------------------------
-(1) Creating all the charts and pivot table to answer the questions
+(1) Creating all the charts and pivot tables to answer the questions
 
 (2) Adding filters (region - product - year)
 
