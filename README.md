@@ -63,6 +63,23 @@
 
 
 
+** Phase (3) Insights **
+---------------------------------
+
+(1) We processed 500 orders totaling $ 149,63K. The average order value was $299,3.
+
+(2) Sales peaked in Ocrober 2024, suggesting strong demand. Sales dipped in Augest 2024, indicating a slow season.
+
+(3) Gadget X is the highest of total sales, while Widget A is lowest.
+
+(4) The South and North region are top and equal in sales.
+
+(5) Sarah Kim is the top performer with consistent sales $ 33K.
+
+(6) The South region has the highest AOV, suggesting an opportunity for premium product promotion.
+
+(7) Average Order Value is increasing year-over-year, indicating stronger customer engagement
+
 
 
 
